@@ -1,3 +1,4 @@
+Deploy: https://ethno-wear.netlify.app/
 # ECommerce-Application
 Welcome to our eCommerce application! This platform replicates real-world shopping experiences in a digital environment 🏪. It's a comprehensive online shopping portal that provides an interactive and seamless experience to users. From product discovery to checkout, the application ensures a smooth journey for the user, enhancing their engagement and boosting their purchasing confidence.
 
@@ -50,3 +51,14 @@ In the project directory, you can run the following scripts using npm:
 - `npm run lint`  will run ESLint to check for coding errors and style issues in your TypeScript files. It will report any problems found.
 - `npm run lint:fix` will run ESLint to check and fix issues in your TypeScript files. It will apply automatic fixes to as many issues as possible.
 - `npm test` will run the test suite using Jest. Jest will execute your test cases and provide the test results.
+
+## Screenshots:
+![image](https://github.com/ElizabethVasilenko13/ECommerce-App/assets/94306589/b7471d83-82e9-41ec-8f13-6487a255366d)
+![image](https://github.com/ElizabethVasilenko13/ECommerce-App/assets/94306589/3c4036c4-8210-4090-8837-be74f173bc82)
+![image](https://github.com/ElizabethVasilenko13/ECommerce-App/assets/94306589/db5d8d9b-85a7-4921-96f4-13da7e1dfde4)
+![image](https://github.com/ElizabethVasilenko13/ECommerce-App/assets/94306589/e52a0fa6-bd20-4f82-a7ed-d68392e00060)
+![image](https://github.com/ElizabethVasilenko13/ECommerce-App/assets/94306589/15e83370-fc00-48a0-96a6-4e448b65b942)
+
+
+
+
