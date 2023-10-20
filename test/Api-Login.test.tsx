@@ -18,7 +18,7 @@ describe('functions Api data getCustomers', () => {
 
     expect(result).toEqual(mockResponse);
     expect(fetchMock).toHaveBeenCalledWith(
-      `${process.env.REACT_APP_CTP_API_URL}/chat_gpt_team/me/login`,
+      `${process.env.REACT_APP_CTP_API_URL}/angel_team/me/login`,
       expect.objectContaining({
         method: 'POST',
         headers: {

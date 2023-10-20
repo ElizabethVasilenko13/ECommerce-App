@@ -22,7 +22,7 @@ export const getCustomer = async ({
       password: `${password}`,
     };
     const response = await fetch(
-      `${process.env.REACT_APP_CTP_API_URL}/chat_gpt_team/me/login`,
+      `${process.env.REACT_APP_CTP_API_URL}/angel_team/me/login`,
       {
         method: 'POST',
         headers: {
@@ -45,7 +45,7 @@ export const getToken = async ({
   try {
     scheduleTokenRefresh();
     const response = await fetch(
-      `${process.env.REACT_APP_CTP_AUTH_URL}/oauth/chat_gpt_team/customers/token`,
+      `${process.env.REACT_APP_CTP_AUTH_URL}/oauth/angel_team/customers/token`,
       {
         method: 'POST',
         headers: {

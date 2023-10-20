@@ -16,7 +16,7 @@ async function getCustomerToken(email: string, password: string) {
   const encodedCredentials = btoa(credentials);
   try {
     const response = await fetch(
-      `${process.env.REACT_APP_CTP_AUTH_URL}/oauth/chat_gpt_team/customers/token`,
+      `${process.env.REACT_APP_CTP_AUTH_URL}/oauth/angel_team/customers/token`,
       {
         method: 'POST',
         headers: {
