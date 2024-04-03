@@ -40,7 +40,6 @@ Run the app
 ```
 $ npm start
 ```
-Deploy: https://ethno-wear.netlify.app/
 
 ## Available Scripts
 In the project directory, you can run the following scripts using npm:
